@@ -36,14 +36,34 @@ In our head-to-head tests against 7 major tools, AI Detect Lab successfully iden
 | **MJ v6 / Flux Support** | ✅ High Accuracy | ❌ Mostly Fail |
 | **Detection Speed** | ⚡ Seconds | ⏳ 30s+ / Complex Setup |
 | **Ease of Use** | 🌐 Web UI (Free) | 💻 Python/GPU Required |
-<img width="1520" height="1079" alt="aidetectlab" src="https://github.com/user-attachments/assets/c84ac030-20d0-42b4-bf03-ed4658559427" />
+
 <img width="1319" height="969" alt="aidetectlab1" src="https://github.com/user-attachments/assets/c02bff10-f266-4f93-8638-87987f09f32c" />
-<img width="1598" height="653" alt="wasitai" src="https://github.com/user-attachments/assets/5e763647-7c68-4af4-8725-da558d9188ed" />
-<img width="1448" height="1104" alt="sightengine" src="https://github.com/user-attachments/assets/b152cf06-f627-4949-ade7-0c6813a7e33e" />
-<img width="1119" height="723" alt="mydetector" src="https://github.com/user-attachments/assets/57fb3eea-dfbe-4b5d-a8cc-114503f12727" />
-<img width="912" height="658" alt="isitai" src="https://github.com/user-attachments/assets/374c5425-26e6-424c-9b50-7f4e4684e26c" />
-<img width="1045" height="703" alt="illuminarty" src="https://github.com/user-attachments/assets/e41dd132-7b4c-4082-98a3-9b3f396d9696" />
-<img width="1246" height="847" alt="decopyai" src="https://github.com/user-attachments/assets/eb65550b-c28a-4056-a881-409a661b406d" />
+
+===========
+
+
+<img width="898" height="1201" alt="ai伪造图片" src="https://github.com/user-attachments/assets/a3583752-ac8c-421c-ac37-084530c404d5" />
+
+===========
+
+<img width="1520" height="1079" alt="aidetectlab" src="https://github.com/user-attachments/assets/c84ac030-20d0-42b4-bf03-ed4658559427" />
+
+===========
+
+<img width="1045" height="703" alt="illuminarty" src="https://github.com/user-attachments/assets/4b3e7757-37c1-4552-8250-0af7848dcf97" />
+
+===========
+
+<img width="1246" height="847" alt="decopyai" src="https://github.com/user-attachments/assets/5e80eda9-b442-4c1d-ade1-9d05efa86923" />
+
+===========
+
+<img width="1598" height="653" alt="wasitai" src="https://github.com/user-attachments/assets/2ba5f3c9-f8a1-46bc-9962-61c73f5fb5fd" />
+
+===========
+
+<img width="1119" height="723" alt="mydetector" src="https://github.com/user-attachments/assets/356086d6-4abf-4ff4-983d-bdeafac6a6ee" />
+
 
 ---
 
